@@ -1,4 +1,4 @@
-# YOLOV5-Custom-data- Object Dtecttion : Fashion Dataset
+# YOLOV5-Custom-data- Object Dtection : Fashion Dataset
 This repo contain the jupyter notebook to train the custom model using YOLOV5 and also detect the objects based on YOLOV5 Flask application
 
 Data URL:
